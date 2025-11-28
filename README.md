@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-**Data Analytics & SQL Portfolio** showcasing hands-on projects in **data analysis**, **SQL querying**, **data cleaning**, and **business intelligence**. Built for **entry-level Data Analyst** role
+**Data Analytics & SQL Portfolio** showcasing hands-on projects in **data analysis**, **SQL querying**, **data cleaning**, and **business intelligence**. Built for **Entry-level Data Analyst** role
 
 ## Featured Projects
 
@@ -16,9 +16,6 @@
 **Tools**: PostgreSQL, pgAdmin, DBeaver, Excel, Git/GitHub  
 **Experience**: NAVERCloud internship
 
-## Quick Stats
-- **production-ready SQL projects**
-- **Hands-on messy real-world datasets**
 
 ## About Me
 Trilingual professional passionate about **Data Analyst** roles, determined on finding **actionable business insights**.
