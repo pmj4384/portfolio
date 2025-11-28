@@ -11,9 +11,9 @@
 
 ## Technical Skills
 
-**SQL (Advanced)**: Window functions, CTEs, `UNNEST`, `STRING_TO_ARRAY`, date functions, complex joins  
+**SQL (Advanced)**: Window Functions, CTEs, Array/String Functions, Conditional Aggregation, Date/Time Functions, Advanced JOINs, Subqueries in SELECT 
 **Python**: Pandas, NumPy (learning ML)  
-**Tools**: SQL, PostgreSQL, PowerBI, Tableau, Excel, Git/GitHub  
+**Tools**: PostgreSQL, PowerBI, Tableau, Excel, Git/GitHub  
 **Experience**: NAVERCloud internship
 
 
