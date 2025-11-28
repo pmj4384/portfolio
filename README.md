@@ -1,2 +1,30 @@
-# data_analyst_portfolio
-Data Analysis Projects
+# Data Analytics Portfolio
+
+**Data Analytics & SQL Portfolio** showcasing hands-on projects in **data analysis**, **SQL querying**, **data cleaning**, and **business intelligence**. Built for **entry-level Data Analyst** role
+
+## Featured Projects
+
+| Project | Description | Key Skills | Tech Stack | Live Demo |
+|---------|-------------|------------|------------|-----------|
+| **[Netflix Content Analysis](https://github.com/pmj4384/SQL_project_2)** | Analyzes 11K+ Netflix titles answering 15 business questions (genres, ratings, countries, directors) | Window functions (`RANK`), `UNNEST`, string cleaning, CTEs, date parsing | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_2) |
+| **[Retail Sales Analysis](https://github.com/pmj4384/SQL_project_1)** | Analyzes retail sales trends, customer behavior, product performance, and time-of-day patterns | Aggregations (`SUM`, `AVG`), window functions (`RANK`), `EXTRACT`, `CASE WHEN` | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_1) |
+
+## Technical Skills
+
+**SQL (Advanced)**: Window functions, CTEs, `UNNEST`, `STRING_TO_ARRAY`, date functions, complex joins  
+**Python**: Pandas, NumPy (learning ML)  
+**Tools**: PostgreSQL, pgAdmin, DBeaver, Excel, Git/GitHub  
+**Experience**: NAVERCloud internship
+
+## Quick Stats
+- **1+ production-ready SQL projects**
+- **Hands-on messy real-world datasets**
+
+## About Me
+Trilingual professional passionate about **Data Analyst** roles, determined on finding **actionable business insights**.
+
+**[LinkedIn](www.linkedin.com/in/myungjoopark)** | **[Email](myungjooprk123@gmail.com)** |
+
+---
+
+*Open to opportunities as a Data Analyst. Let's connect!*
