@@ -13,7 +13,9 @@
 
 **SQL (Advanced)**: Window Functions, CTEs, Array/String Functions, Conditional Aggregation, Date/Time Functions, Advanced JOINs, Subqueries in SELECT 
 
-**Python**: Pandas, NumPy (learning ML)  
+**Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+**R**: dplyr, tidyr, ggplot2, caret
 
 **Tools**: PostgreSQL, PowerBI, Tableau, Excel, Git/GitHub  
 
