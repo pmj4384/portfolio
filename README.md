@@ -17,7 +17,7 @@
 **Experience**: NAVERCloud internship
 
 ## Quick Stats
-- **1+ production-ready SQL projects**
+- **production-ready SQL projects**
 - **Hands-on messy real-world datasets**
 
 ## About Me
