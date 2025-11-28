@@ -13,7 +13,7 @@
 
 **SQL (Advanced)**: Window functions, CTEs, `UNNEST`, `STRING_TO_ARRAY`, date functions, complex joins  
 **Python**: Pandas, NumPy (learning ML)  
-**Tools**: PostgreSQL, pgAdmin, DBeaver, Excel, Git/GitHub  
+**Tools**: SQL, PostgreSQL, PowerBI, Tableau, Excel, Git/GitHub  
 **Experience**: NAVERCloud internship
 
 
